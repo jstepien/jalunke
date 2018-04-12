@@ -2,6 +2,12 @@
 [halunke.jetzt](http://halunke.jetzt)
 ✨
 
+<a href="https://janstepien.com/compiling-a-lisp-into-a-lisp-using-a-lisp/">
+  <img src="https://janstepien.com/compiling-a-lisp-into-a-lisp-using-a-lisp/thumb.png"
+       alt="video thumbnail"
+       style="max-width:95%;width:30em;"/>
+</a>
+
 ```clojure
 user=> (require 'jalunke.compile)
 nil
